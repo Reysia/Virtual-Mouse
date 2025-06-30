@@ -2,10 +2,10 @@
 
 ## 📝 프로젝트 소개
 
-- 프로젝트 명: 버추얼 마우스(Virtual Mouse)
-- 앱(서비스) 명: Gesture Mouse
-- 서비스 목표: 사용자의 손 동작을 웹캠을 통해 실시간으로 인식하고, 이를 바탕으로 실제 마우스처럼 작동하는 버추얼 마우스 시스템을 개발하는 것.
-- 기대효과: 모든 컴퓨터 사용자들에게 발병될 수 있는 손목 터널 증후군 등을 예방할 수 있다.
+- **프로젝트 명**: 버추얼 마우스(Virtual Mouse)
+- **앱(서비스) 명**: Gesture Mouse
+- **서비스 목표**: 사용자의 손 동작을 웹캠을 통해 실시간으로 인식하고, 이를 바탕으로 실제 마우스처럼 작동하는 버추얼 마우스 시스템을 개발하는 것.
+- **기대효과**: 모든 컴퓨터 사용자들에게 발병될 수 있는 손목 터널 증후군 등을 예방할 수 있다.
 
 <br />
 
@@ -22,7 +22,7 @@
 
 ## ⚙ 기술 스택(Tech Stack)
 ### Backend
-<div style="gap: 1em">
+<div>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white" height="30">
 <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white" height="30">
 <img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white" height="30">
@@ -38,18 +38,36 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white" height="30">
 </div>
 
-### Tools
+### System Control & Automation
+- **PyAutoGUI, OneEuroFilter**
+
+### Communication & Process Management
 <div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" width="80">
+<img alt="Static Badge" src="https://img.shields.io/badge/Axios-%235A29E4?style=flat-square&logo=axios&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white" height="30">
+</div>
+
+- **Multiprocessing, Threading**
+
+### Data Management & Storage
+<div>
+<img alt="Static Badge" src="https://img.shields.io/badge/JSON-%23000000?style=flat-square&logo=json&logoColor=white" height="30">
+</div>
+
+- **electron-store**
+
+### Build & Development Tools
+<div>
+<img alt="Static Badge" src="https://img.shields.io/badge/electron--builder-%23000000?style=flat-square&logo=electronbuilder&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/npm-%23CB3837?style=flat-square&logo=npm&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git_LFS-%23F64935?style=flat-square&logo=gitlfs&logoColor=white" height="30">
 </div>
 
 <br />
 
 ## 🛠️ 프로젝트 아키텍쳐
-![no-image](https://user-images.githubusercontent.com/80824750/208294567-738dd273-e137-4bbf-8307-aff64258fe03.png)
-
-
+![Image](https://github.com/user-attachments/assets/0167ee27-3867-47ea-8491-f4e31cd32698)
 
 <br />
 
@@ -66,7 +84,7 @@
 <br />
 
 ## 💁‍♂️ 프로젝트 팀원
-|Backend|Frontend|
-|:---:|:---:|
-| ![](https://github.com/yewon-Noh.png?size=120) | ![](https://github.com/SeongHo-C.png?size=120) |
-|[노예원](https://github.com/yewon-Noh)|[이성호](https://github.com/SeongHo-C)|
+|                                        PM, Backend, Frontend                                         |                                          Back/Front Support                                          |                                          Back/Front Support                                          |
+|:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
+| <img src="https://avatars.githubusercontent.com/u/114599037?v=4" width="200" height="200" alt="이재민"> | <img src="https://avatars.githubusercontent.com/u/181239205?v=4" width="200" height="200" alt="정의현"> | <img src="https://avatars.githubusercontent.com/u/152354094?v=4" width="200" height="200" alt="한재호"> |
+|                                   [이재민](https://github.com/Reysia)                                   |                                  [정의현](https://github.com/juhqwer)                                   |                                 [한재호](https://github.com/minmotion1)                                 |
