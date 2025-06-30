@@ -20,22 +20,22 @@
 
 <br />
 
-## ⚙ 기술 스택
-> skills 폴더에 있는 아이콘을 이용할 수 있습니다.
-### Back-end
-<div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringBoot.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringSecurity.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringDataJPA.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Mysql.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Ajax.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Thymeleaf.png?raw=true" width="80">
+## ⚙ 기술 스택(Tech Stack)
+### Backend
+<div style="gap: 1em">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/MediaPipe-%230097A7?style=flat-square&logo=mediapipe&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white" height="30">
 </div>
 
-### Infra
+### Frontend
 <div>
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/AWSEC2.png?raw=true" width="80">
+<img alt="Static Badge" src="https://img.shields.io/badge/Electron-%2347848F?style=flat-square&logo=electron&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white" height="30">
 </div>
 
 ### Tools
