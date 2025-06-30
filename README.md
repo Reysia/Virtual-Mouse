@@ -62,6 +62,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/npm-%23CB3837?style=flat-square&logo=npm&logoColor=white" height="30">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" height="30">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git_LFS-%23F64935?style=flat-square&logo=gitlfs&logoColor=white" height="30">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white" height="30">
 </div>
 
 <br />
