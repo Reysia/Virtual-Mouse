@@ -10,9 +10,13 @@
 <br />
 
 ### 화면 구성
-|                                                   메인화면                                                   |                                                   설정화면                                                   | 로그화면 | GitHub 사이드 메뉴 동작 |
-|:--------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:----:|:---:|
-| <img src="https://github.com/user-attachments/assets/099dd0c3-3e39-40aa-bab8-34de5b0f26fc" width="400"/> | <img src="https://github.com/user-attachments/assets/2acd312b-8159-43d6-a5c2-52d7ea88209c" width="400"/> | <img src="https://github.com/user-attachments/assets/2a3a7a88-d114-48eb-9a63-d1877cbc5587" width="400"/> | <img src="https://github.com/user-attachments/assets/774b66ff-d574-453f-8ac1-8ce11664965d" width="400"/> |
+|                                                   메인화면                                                   |                                                   설정화면                                                   |
+|:--------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
+| <img src="https://github.com/user-attachments/assets/099dd0c3-3e39-40aa-bab8-34de5b0f26fc" width="400"/> | <img src="https://github.com/user-attachments/assets/2acd312b-8159-43d6-a5c2-52d7ea88209c" width="400"/> |
+
+|                                                   로그화면                                                   |                                             GitHub 사이드 메뉴 동작                                             |
+|:--------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
+| <img src="https://github.com/user-attachments/assets/2a3a7a88-d114-48eb-9a63-d1877cbc5587" width="400"/> | <img src="https://github.com/user-attachments/assets/774b66ff-d574-453f-8ac1-8ce11664965d" width="400"/> |
 
 <br />
 
