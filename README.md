@@ -38,11 +38,9 @@
 
 |                                                  실시간 동작                                                  |                                                   앱 동작                                                   |
 |:--------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
-| <img src="https://github.com/user-attachments/assets/c8f5e2f4-1f89-43b0-8797-7f0a599e2cc1" width="400"/> | <img src="https://github.com/user-attachments/assets/7345c92f-05b9-4f16-a00d-21c8210a875f" width="400"/> |
-
-![Image](https://github.com/user-attachments/assets/c8f5e2f4-1f89-43b0-8797-7f0a599e2cc1)
-
-![Image](https://github.com/user-attachments/assets/7345c92f-05b9-4f16-a00d-21c8210a875f)
+| <img src="https://github.com/user-attachments/assets/c8f5e2f4-1f89-43b0-8797-7f0a599e2cc1" width="370"/> | <img src="https://github.com/user-attachments/assets/7345c92f-05b9-4f16-a00d-21c8210a875f" width="370"/> |
+[//]: # (![Image]&#40;https://github.com/user-attachments/assets/c8f5e2f4-1f89-43b0-8797-7f0a599e2cc1&#41;)
+[//]: # (![Image]&#40;https://github.com/user-attachments/assets/7345c92f-05b9-4f16-a00d-21c8210a875f&#41;)
 
 <br />
 
