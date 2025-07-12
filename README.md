@@ -107,7 +107,7 @@
 <br />
 
 ## 💁‍♂️ 프로젝트 팀원
-|                                        PM, Backend, Frontend                                         |                                          Back/Front Support                                          |                                          Back/Front Support                                          |
+|                                        PM, Backend, Frontend                                         |                                           Backend Support                                            |                                           Backend Support                                            |
 |:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------:|
 | <img src="https://avatars.githubusercontent.com/u/114599037?v=4" width="200" height="200" alt="이재민"> | <img src="https://avatars.githubusercontent.com/u/181239205?v=4" width="200" height="200" alt="정의현"> | <img src="https://avatars.githubusercontent.com/u/152354094?v=4" width="200" height="200" alt="한재호"> |
 |                                   [이재민](https://github.com/Reysia)                                   |                                  [정의현](https://github.com/juhqwer)                                   |                                 [한재호](https://github.com/minmotion1)                                 |
