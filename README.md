@@ -76,19 +76,12 @@
 - **PyAutoGUI, OneEuroFilter**
 
 ### Communication & Process Management
-<div>
-<img alt="Static Badge" src="https://img.shields.io/badge/Axios-%235A29E4?style=flat-square&logo=axios&logoColor=white" height="30">
-<img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&logoColor=white" height="30">
-</div>
 
-- **Multiprocessing, Threading**
+- **Axios, Node.js, Multiprocessing, Threading**
 
 ### Data Management & Storage
-<div>
-<img alt="Static Badge" src="https://img.shields.io/badge/JSON-%23000000?style=flat-square&logo=json&logoColor=white" height="30">
-</div>
 
-- **electron-store**
+- **JSON, electron-store**
 
 ### Build & Development Tools
 <div>
